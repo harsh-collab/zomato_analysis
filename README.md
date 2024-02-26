@@ -4,6 +4,7 @@ This project was initiated by taking a sqlite data. This Analysis project involv
 1) Data Cleaning
 2) Data Transfromation
 3) Data Visualisation
+4) Data Analysis
 
 The objectives or findings of this projects were:
 1) Analysing relation between Online Order and Rating
